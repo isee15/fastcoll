@@ -1,5 +1,8 @@
+xcuserdata/
+
 # Prerequisites
 *.d
+
 
 # Compiled Object files
 *.slo
